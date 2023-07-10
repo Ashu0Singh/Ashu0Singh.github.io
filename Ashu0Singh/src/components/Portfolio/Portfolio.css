@@ -75,6 +75,9 @@
 	background: transparent;
 }
 .portfolio__item-image {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
 	width: 50%;
 	overflow: hidden;
 }
@@ -113,4 +116,15 @@
 		grid-template-columns: 1fr;
 		gap: 1rem;
 	}
+}
+
+.title-time{
+	display: flex;
+	justify-content: space-between;
+	align-items: baseline;
+}
+
+.date, .techStack{
+	font-size: 0.9rem;
+	color: var(--color-light);
 }

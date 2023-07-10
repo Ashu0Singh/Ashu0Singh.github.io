@@ -28,7 +28,9 @@ const Nav = () => {
 				className={activeNav === "#experience" ? "active" : ""}>
 				<AiOutlineMail />
 			</a>
-			<a href="#" className={activeNav === "#" ? "active" : ""}>
+			<a href="#"
+				onClick={() => setActiveNav("#")}
+				className={activeNav === "#" ? "active" : ""}>
 				{" "}
 				<AiOutlineHome />
 			</a>

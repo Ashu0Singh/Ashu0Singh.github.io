@@ -26,8 +26,7 @@ const header = () => {
 							initial={initial}
 							animate={animate}
 							transition={transition}
-							className="intro-greet"
-						>
+							className="intro-greet">
 							Hey there, I'm{" "}
 						</motion.h3>
 						<motion.h1
@@ -37,8 +36,7 @@ const header = () => {
 								...transition,
 								delay: 0.6,
 							}}
-							className="name"
-						>
+							className="name">
 							Ashutosh Singh
 						</motion.h1>
 						<motion.h3
@@ -62,8 +60,9 @@ const header = () => {
 						in front-end development and UI design. Skilled in
 						React.js and Figma, I build interactive, appealing web
 						applications. Continuously refining my abilities through
-						personal projects, I aim to advance in my developer and
-						designer roles.
+						personal projects, I am actively seeking new
+						opportunities to further develop and utilize my skills
+						as a developer and designer.
 					</motion.p>
 					<CTA />
 				</div>
