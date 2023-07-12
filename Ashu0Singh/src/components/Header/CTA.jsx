@@ -1,5 +1,4 @@
 import React from "react";
-import CV from "../../assets/CV-July23.pdf";
 import { motion } from "framer-motion";
 const CTA = () => {
 	const initial = {
@@ -20,8 +19,10 @@ const CTA = () => {
 			animate={animate}
 			transition={transition}
 			className="cta">
-			<a href={CV} download className="btn">
-				Download CV
+			<a
+				href={process.env.REACT_APP_CV_URL}
+				className="btn">
+				View CV
 			</a>
 			<a href="#contacts" className="btn btn-primary">
 				Get in touch

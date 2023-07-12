@@ -17,7 +17,7 @@ const data = [
 	},
 	{
 		id: 2,
-		weburl: "https://www.ashu-singh.me/Prompt-Battle/",
+		weburl: "https://www.ashu-singh.me/PromptBattle/",
 		title: "Prompt Battle",
 		date: "Nov 22 - Dec 22",
 		techStack: "ReactJs, Bootstrap, NodeJS, ExpressJs, MongoDB",
@@ -27,13 +27,13 @@ const data = [
 	},
 	{
 		id: 3,
-		weburl: "https://www.ashu-singh.me/Ecommerce-Web/",
-		title: "Ecommerce Website",
+		weburl: "https://www.ashu-singh.me/AudioAscend/",
+		title: "AudioAscend",
 		date: "March 23",
 		techStack: "ReactJs, SASS, Strapi.js, NodeJS, PostgreSQL, Stripe.js",
-		desc: `Explore our newly revamped boat eCommerce platform, designed with MERN stack and Strapi.js for a smooth browsing experience, and secured with Stripe.js for reliable, easy transactions. Finding and purchasing your dream boat has never been more seamless!`,
-		url: "https://raw.githubusercontent.com/Ashu0Singh/Ashu0Singh/master/src/assets/Ecommerce.png",
-		github: "https://github.com/Ashu0Singh/E-Commerce",
+		desc: `A cutting-edge, open-source eCommerce platform specializing in premium audio solutions. This repository demonstrates the use of technologies like React, Node.js, and PostgreSQL to provide a seamless user experience in online audio equipment shopping.`,
+		url: "https://raw.githubusercontent.com/Ashu0Singh/Ashu0Singh/master/src/assets/AudioAscend.png",
+		github: "https://github.com/Ashu0Singh/AudioAscend",
 	},
 	{
 		id: 4,
