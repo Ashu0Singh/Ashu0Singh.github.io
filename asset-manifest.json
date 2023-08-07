@@ -1,14 +1,18 @@
 {
   "files": {
     "main.css": "/static/css/main.fbcaf6bd.css",
-    "main.js": "/static/js/main.fce52885.js",
-    "static/media/HeroSection.png": "/static/media/HeroSection.efc911b1b486853a64bc.png",
+    "main.js": "/static/js/main.239037f5.js",
+    "static/media/HeroSection.webp": "/static/media/HeroSection.b5ad2957e17f8f3ba845.webp",
+    "static/media/Farmers_Haat.webp": "/static/media/Farmers_Haat.72b5b71ba5af34106877.webp",
+    "static/media/Prompt_Battle.webp": "/static/media/Prompt_Battle.5d73ca929c57cd423937.webp",
+    "static/media/AudioAscend.webp": "/static/media/AudioAscend.6a31d84eb90d242dbf48.webp",
+    "static/media/Space_Tourism.webp": "/static/media/Space_Tourism.68509ac58931ea8d40a8.webp",
     "index.html": "/index.html",
     "main.fbcaf6bd.css.map": "/static/css/main.fbcaf6bd.css.map",
-    "main.fce52885.js.map": "/static/js/main.fce52885.js.map"
+    "main.239037f5.js.map": "/static/js/main.239037f5.js.map"
   },
   "entrypoints": [
     "static/css/main.fbcaf6bd.css",
-    "static/js/main.fce52885.js"
+    "static/js/main.239037f5.js"
   ]
 }
