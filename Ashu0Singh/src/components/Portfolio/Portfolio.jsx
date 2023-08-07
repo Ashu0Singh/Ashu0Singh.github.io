@@ -17,7 +17,7 @@ const data = [
 	},
 	{
 		id: 2,
-		weburl: "https://www.ashu-singh.me/PromptBattle/",
+		weburl: "https://www.ashu-singh.com/PromptBattle/",
 		title: "Prompt Battle",
 		date: "Nov 22 - Dec 22",
 		techStack: "ReactJs, Bootstrap, NodeJS, ExpressJs, MongoDB",
@@ -27,7 +27,7 @@ const data = [
 	},
 	{
 		id: 3,
-		weburl: "https://www.ashu-singh.me/AudioAscend/",
+		weburl: "https://www.ashu-singh.com/AudioAscend/",
 		title: "AudioAscend",
 		date: "March 23",
 		techStack: "ReactJs, SASS, Strapi.js, NodeJS, PostgreSQL, Stripe.js",
@@ -37,7 +37,7 @@ const data = [
 	},
 	{
 		id: 4,
-		weburl: "https://www.ashu-singh.me/SpaceTourism/",
+		weburl: "https://www.ashu-singh.com/SpaceTourism/",
 		title: "Space Tourism",
 		date: "April 22 - May 22",
 		techStack: "ReactJs, CSS",
